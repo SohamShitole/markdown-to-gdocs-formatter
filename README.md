@@ -14,7 +14,7 @@ A simple script that reads a Markdown file (or string), parses it, and creates a
    ```
 
 2. **Open Google Colab**:
-   - Go to [Google Colab](https://colab.research.google.com).
+   - Go to [Google Colab](https://colab.research.google.com/drive/1xJD8r93r9fl574Wo_LwYBnlBEk-bv6bZ#scrollTo=cnIO5wzDviHg).
    - Upload the `markdown_to_gdocs.ipynb` notebook or open it from GitHub directly.
 
 3. **Enable the Google Docs API**:
